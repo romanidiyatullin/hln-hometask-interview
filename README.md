@@ -3,12 +3,8 @@
 ## Submission Instructions
 
 * ✔ Provide your GitHub username, and we'll invite you to a project which contains the challenge.
-* ⚠️Don't fork the challenge repository on GitHub or submit a pull request directly there, as that would make your solution public for
-  others to see. Instead, just clone the repository and work locally on it.
-* 📧 When you're done, squash your work into a single commit and use `git format-patch` to generate a patch file. Email the patch file
-  to us as your challenge submission.
 
-## HLN Challenge
+##  Challenge
 
 Implement the following endpoints using spring boot inside this project.
 
